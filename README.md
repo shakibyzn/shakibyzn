@@ -1,7 +1,7 @@
 ### Hi there, I'm Shakib 👋 
 
 - 💻 I am pursuing a master's degree at Saarland University
-- 🌱 I’m currently learning privacy-preserving machine learning
+- 🌱 Interested in multimodal deep learning
 - ⚡ Fun fact: I love to play soccer and I’m a fan of Manchester United
 - 📫 How to reach me: shakib.yazdani@uni-saarland.com
 
