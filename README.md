@@ -2,8 +2,8 @@
 
 - 💻 I am pursuing a master's degree at Saarland University
 - 🌱 Interested in multimodal deep learning
-- ⚡ Fun fact: I love to play soccer and I’m a fan of Manchester United
-- 📫 How to reach me: shakib.yazdani@uni-saarland.com
+- ⚡ Fun fact: I love to play football and I’m a fan of Manchester United
+- 📫 How to reach me: shakibyzn@gmail.com
 
 ### Connect with me:
 
